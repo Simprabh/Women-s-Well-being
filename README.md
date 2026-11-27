@@ -1,1 +1,3 @@
-# Women-s-Well-being
+# Women's-Well-being
+After much deliberation on how we can help the world, our group decided to work on women's well-being. Among the key things that led to our decision was violence against women. According to the United Nations, about 840 million women globally have experienced violence, which is about 1 in every 3 women. With this in mind, we decided to come up with a digital product (webpage or App) that will offer educational resources and emergency services for women in need.
+We will focus on coming up with 6 different designs that will feature: Emergency SOS, self-defence modules, education modules, women's health, support against violence and AI assitant.
